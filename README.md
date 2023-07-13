@@ -7,7 +7,7 @@ This iOS app built in Swift fetches data from the OpenWeather API to provide the
 - Fetches data from the OpenWeather API to obtain the current Air Quality Index (AQI).
 - Displays the AQI for the user's current location or a searched location.
 - Visualizes air quality data on an interactive map.
-- Provides icons for different air pollutants based on their names.
+- Provides information about different air pollutants.
 
 ## Screenshots
 
