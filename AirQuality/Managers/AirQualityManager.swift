@@ -10,7 +10,7 @@ import CoreLocation
 
 class AirQualityManager{
     
-    let apiKey = "a85283af98148c8602109795768445ee"
+    let apiKey = YOUR_API_KEY
     
     func getCurrentAirQuality(latitude: CLLocationDegrees, longitude: CLLocationDegrees) async throws -> ResponseBody{
                 
